@@ -1,10 +1,10 @@
 # Videoteca Digital - Fase 5 Evaluación Final POA
 
-**Curso:** Fundamentos de Programación (213022)
-**Universidad:** Universidad Nacional Abierta y a Distancia (UNAD)
-**Estudiante:** Alejandro Rojas Higinio
-**Programa académico:** Ingenieria de sistemas
-**Problema desarrollado:** Problema 4
+- **Curso:** Fundamentos de Programación (213022)
+- **Universidad:** Universidad Nacional Abierta y a Distancia (UNAD)
+- **Estudiante:** Alejandro Rojas Higinio
+- **Programa académico:** Ingeniería de sistemas
+- **Problema desarrollado:** Problema 4
 
 ## Descripción
 
